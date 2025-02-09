@@ -1,4 +1,4 @@
-# BSAtlas: A Vision-Language Model for Medical Image Captioning
+# BSAtlas: A Multimodal LLM for Medical Image Analysis and Conversational AI.(A Vision-Language Model for Medical Image Captioning)
 
 [![Hugging Face Hub](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Card-blue)](https://huggingface.co/Azzahrae96/BSAtlas)
 
